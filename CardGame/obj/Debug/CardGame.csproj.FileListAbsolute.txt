@@ -1,0 +1,12 @@
+C:\Personal\For the Home Project\CardGame\CardGame\bin\Debug\CardGame.exe.config
+C:\Personal\For the Home Project\CardGame\CardGame\bin\Debug\CardGame.exe
+C:\Personal\For the Home Project\CardGame\CardGame\bin\Debug\CardGame.pdb
+C:\Personal\For the Home Project\CardGame\CardGame\obj\Debug\CardGame.csprojResolveAssemblyReference.cache
+C:\Personal\For the Home Project\CardGame\CardGame\obj\Debug\CardGame.exe
+C:\Personal\For the Home Project\CardGame\CardGame\obj\Debug\CardGame.pdb
+E:\CardGame\CardGame\bin\Debug\CardGame.exe.config
+E:\CardGame\CardGame\obj\Debug\CardGame.exe
+E:\CardGame\CardGame\obj\Debug\CardGame.pdb
+C:\Personal\CardGame\CardGame\bin\Debug\CardGame.exe.config
+C:\Personal\CardGame\CardGame\obj\Debug\CardGame.exe
+C:\Personal\CardGame\CardGame\obj\Debug\CardGame.pdb
